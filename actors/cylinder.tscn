@@ -1,0 +1,8 @@
+[gd_scene load_steps=2 format=3 uid="uid://bkvuj5sjynfwo"]
+
+[ext_resource type="Script" path="res://actors/cylinder.gd" id="1_vicpd"]
+
+[node name="cylinder" type="Node2D"]
+script = ExtResource("1_vicpd")
+height = 5
+light = 2
